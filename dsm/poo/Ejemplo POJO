@@ -1,0 +1,31 @@
+public class Mascota{
+	
+	private String nombre;
+	private Persona persona;
+	private int edad;
+
+	///setters y getter
+
+
+}
+
+
+public class Persona{
+	private String nombre;
+	private String apellido;
+	private String edad;
+
+	//setters y getters
+}
+
+
+
+public class Estudiante{
+	private String carnet;
+	private List<String> materias;
+	private String nombre;
+	private String apellido;
+	private Date edad;
+
+	//setters y getters
+}
